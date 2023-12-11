@@ -3,4 +3,11 @@ project(AdventOfCode2023CPP)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(AdventOfCode2023CPP main.cpp)
+set(SOURCES
+        main.cpp
+        Day1/SolutionDay1.cpp
+        )
+
+add_executable(AdventOfCode2023CPP ${SOURCES})
+
+target_compile_options(AdventOfCode2023CPP PRIVATE -O3)

@@ -1,0 +1,6 @@
+# ninja log v5
+1	1234	7240119096489749	CMakeFiles/AdventOfCode2023CPP.dir/main.cpp.obj	2616d19873abad83
+8	432	7240119666858749	build.ninja	ff907bb91b73738b
+12	1464	7240119683299607	CMakeFiles/AdventOfCode2023CPP.dir/main.cpp.obj	88f7050d7fcbbf37
+6	1951	7240119688175693	CMakeFiles/AdventOfCode2023CPP.dir/Day1/SolutionDay1.cpp.obj	3a8d83fd68fb365f
+1952	2179	7240119690410970	AdventOfCode2023CPP.exe	4ce7d4e4380dbb10
